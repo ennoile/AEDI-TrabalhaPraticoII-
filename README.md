@@ -5,7 +5,7 @@
 Nos foi disponibilizado um trabalho a ser desenvolvido de forma prática: 
 
 <p align="center"><img src="Imagens/Lista.png" style="width:70%"/></p>
-onde foi definido que ultilizariamos a tabela hash. Portanto neste trabalho, foi utilizada uma função hash simples, baseada na operação de módulo para calcular o índice onde cada aluno será inserido na tabela.
+onde foi definido que utilizariamos a tabela hash. Portanto neste trabalho, foi utilizada uma função hash simples, baseada na operação de módulo para calcular o índice onde cada aluno será inserido na tabela.
 
 A função hash utilizada é:
 <p align="center"><img src="Imagens/hash.png" style="width:50%"/></p>
